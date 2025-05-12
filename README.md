@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">$(whoami)<br>Hi 👋, I'm Buvaneshvaran K<br>A passionate Ethical Hacker from India<br>🔭 I'm currently working as a Cyber Security Researcher.<br>👯 I’m looking to collaborate on Bug Bounty Hunting<br>⚡ Fun fact - Eat🍴 Sleep🛌 Hack🧑‍💻 Repeat🔁</h2>
+<h2 align="center">$(whoami)<br>Hi 👋, I'm Buvaneshvaran K<br>A passionate Ethical Hacker from India<br>🔭 I'm currently working as a Cyber Security Researcher<br>👯 I’m looking to collaborate on Bug Bounty Hunting<br>⚡ Fun fact - Eat🍴 Sleep🛌 Hack🧑‍💻 Repeat🔁</h2>
 
 ###
 
